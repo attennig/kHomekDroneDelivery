@@ -1,0 +1,6 @@
+  {
+    "drone_speed": 10,
+    "delta_u": 40,
+    "delta_l": 40,
+    "delta_r": 20
+  }

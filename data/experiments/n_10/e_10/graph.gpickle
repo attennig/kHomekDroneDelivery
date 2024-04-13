@@ -1,0 +1,151 @@
+graph [
+  directed 1
+  node [
+    id 0
+    label "0"
+    pos 0.060772129773418726
+    pos 0.6569813249628874
+  ]
+  node [
+    id 1
+    label "1"
+    pos 0.21110141302750574
+    pos 0.9457050145767508
+  ]
+  node [
+    id 2
+    label "2"
+    pos 0.39738431748868985
+    pos 0.8768701378979913
+  ]
+  node [
+    id 3
+    label "3"
+    pos 0.6450658355851036
+    pos 0.9583872254886981
+  ]
+  node [
+    id 4
+    label "4"
+    pos 0.4262080751780559
+    pos 0.3653604757345915
+  ]
+  node [
+    id 5
+    label "5"
+    pos 0.05449321355727976
+    pos 0.874361324339723
+  ]
+  node [
+    id 6
+    label "6"
+    pos 0.1323432986225057
+    pos 0.730993814917809
+  ]
+  node [
+    id 7
+    label "7"
+    pos 0.4847405894040324
+    pos 0.6254517203015497
+  ]
+  node [
+    id 8
+    label "8"
+    pos 0.0298165578904781
+    pos 0.46197397078060976
+  ]
+  node [
+    id 9
+    label "9"
+    pos 0.6090221180802109
+    pos 0.2934608332177594
+  ]
+  edge [
+    source 0
+    target 5
+  ]
+  edge [
+    source 0
+    target 6
+  ]
+  edge [
+    source 0
+    target 8
+  ]
+  edge [
+    source 1
+    target 2
+  ]
+  edge [
+    source 1
+    target 5
+  ]
+  edge [
+    source 1
+    target 6
+  ]
+  edge [
+    source 2
+    target 1
+  ]
+  edge [
+    source 2
+    target 3
+  ]
+  edge [
+    source 2
+    target 7
+  ]
+  edge [
+    source 3
+    target 2
+  ]
+  edge [
+    source 4
+    target 7
+  ]
+  edge [
+    source 4
+    target 9
+  ]
+  edge [
+    source 5
+    target 0
+  ]
+  edge [
+    source 5
+    target 1
+  ]
+  edge [
+    source 5
+    target 6
+  ]
+  edge [
+    source 6
+    target 0
+  ]
+  edge [
+    source 6
+    target 1
+  ]
+  edge [
+    source 6
+    target 5
+  ]
+  edge [
+    source 7
+    target 2
+  ]
+  edge [
+    source 7
+    target 4
+  ]
+  edge [
+    source 8
+    target 0
+  ]
+  edge [
+    source 9
+    target 4
+  ]
+]

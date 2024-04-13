@@ -1,0 +1,20 @@
+A JSON file is used to load the parameters of the drone model
+ - weight [kg] contains the weight of the three main components of the drone:
+   - body [kg] is the weight of the drone's frame
+   - battery [kg] is the weight of the drone's battery
+   - payload [kg] is the weight of the drone's payload carrying compartment, it is added to the weight of the parcel
+ - drag_coefficient is the drag coefficient of the drone's components:
+   - body is the drag coefficient of the drone's frame
+   - battery is the drag coefficient of the drone's battery
+   - payload is the drag coefficient of the drone's payload carrying compartment
+ - front_area [m^2] is the front area of the drone's components:
+   - body [m^2] is the front area of the drone's frame
+   - battery [m^2] is the front area of the drone's battery
+   - payload [m^2] is the front area of the drone's payload carrying compartment
+ - rotors specifies the characteristics of the drone's rotors:
+   - number is the number of rotors the drone has
+   - diameter [m] is the diameter of the rotors
+ - battery specifies the characteristics of the drone's battery:
+   - capacity [J] is the capacity of the battery
+   - safe_discharge is the proportion of the battery's capacity that can be safely discharged
+ - power_efficiency is the efficiency of the drone's power system

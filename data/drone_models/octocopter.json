@@ -1,0 +1,26 @@
+{
+  "weight": {
+    "body": 7,
+    "battery": 10,
+    "payload": 0.5
+  },
+  "drag_coefficient": {
+    "body": 1.49,
+    "battery": 1,
+    "payload": 2.2
+  },
+  "front_area": {
+    "body": 0.224,
+    "battery": 0.015,
+    "payload": 0.0929
+  },
+  "rotors" : {
+    "diameter": 0.432,
+    "number": 8
+  },
+  "battery": {
+    "capacity": 5400000,
+    "safe_discharge": 0.8
+  },
+  "power_efficiency": 0.7
+}
